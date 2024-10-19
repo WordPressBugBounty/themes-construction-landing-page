@@ -1,0 +1,1690 @@
+# Copyright (C) 2024 Rara Theme
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Construction Landing Page 1.3.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/construction-landing-page\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-09T10:16:45+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: construction-landing-page\n"
+
+#. Theme Name of the theme
+#: C:\laragon\www\spa-and-salon\wp-content\themes\construction-landing-page\style.css
+msgid "Construction Landing Page"
+msgstr ""
+
+#. Theme URI of the theme
+#: C:\laragon\www\spa-and-salon\wp-content\themes\construction-landing-page\style.css
+msgid "https://rarathemes.com/wordpress-themes/construction-landing-page/"
+msgstr ""
+
+#. Description of the theme
+#: C:\laragon\www\spa-and-salon\wp-content\themes\construction-landing-page\style.css
+msgid "Construction Landing Page is a free WordPress theme for construction company. It is a WordPress theme with a contact form on the homepage, and includes several Call-to-Action sections to create high converting landing pages for construction and building business websites.  Construction Landing Page is clean, responsive (mobile-friendly), speed optimized, and SEO friendly. It includes an attractive banner with a contact form, Services section, Portfolio section, Client Section, testimonial section, Banner with Call to Action Button (CTA), and social media. It is WooCommerce (online shop) compatible and translation ready. Though this theme is created to make construction companies websites, you can use to make all kinds of websites such as web agency, portfolio, e-commerce, photography, business, corporate, restaurant, video, real estate, travel, wedding, education, parallax business portfolio, hotel, church, event, music, review, fitness, affiliate, lawyer, community, sports, medical, cafe, spa, teams, band, food, hair salon, jewelry, political, football, school, university, bed and breakfast, pub, resort, squeeze page, reservation and winery websites. Check the demo at https://rarathemes.com/previews/?theme=construction-landing-page, documentation at https://docs.rarathemes.com/docs/construction-landing-page/, and get support at https://rarathemes.com/support-ticket/."
+msgstr ""
+
+#. Author of the theme
+#: C:\laragon\www\spa-and-salon\wp-content\themes\construction-landing-page\style.css
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the theme
+#: C:\laragon\www\spa-and-salon\wp-content\themes\construction-landing-page\style.css
+msgid "https://rarathemes.com/"
+msgstr ""
+
+#: 404.php:17
+msgid "The Page you are looking for is no longer exists. Please use search or navigate from Homepage."
+msgstr ""
+
+#: 404.php:18
+msgid "Back to homepage"
+msgstr ""
+
+#: archive.php:34
+#: index.php:46
+#: search.php:38
+msgid "Page"
+msgstr ""
+
+#: comments.php:29
+msgid "Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:47
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:48
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:53
+msgid "Primary"
+msgstr ""
+
+#: functions.php:152
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:154
+#: functions.php:164
+#: functions.php:174
+#: functions.php:184
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:162
+msgid "Footer Sidebar First"
+msgstr ""
+
+#: functions.php:172
+msgid "Footer Sidebar Second"
+msgstr ""
+
+#: functions.php:182
+msgid "Footer Sidebar Third"
+msgstr ""
+
+#: functions.php:254
+msgid "Successfully Flushed!"
+msgstr ""
+
+#: functions.php:320
+msgid "Congratulations!"
+msgstr ""
+
+#: functions.php:321
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr ""
+
+#: functions.php:322
+msgid "Go to the dashboard."
+msgstr ""
+
+#: functions.php:323
+msgid "Dismiss"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content (Press Enter)"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "Choose Category"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Choose Post"
+msgstr ""
+
+#: inc/customizer.php:54
+msgid "Choose Post/Page"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Choose Page"
+msgstr ""
+
+#: inc/customizer.php:78
+#: build/dashboard.js:6364
+#: src/pages/Home/index.jsx:20
+msgid "Theme Styling"
+msgstr ""
+
+#: inc/customizer.php:93
+#: inc/customizer.php:115
+#: inc/customizer.php:137
+msgid "Choose the Style:"
+msgstr ""
+
+#: inc/customizer.php:98
+#: inc/customizer.php:120
+#: inc/customizer.php:142
+msgid "Classic"
+msgstr ""
+
+#: inc/customizer.php:99
+#: inc/customizer.php:121
+#: inc/customizer.php:143
+msgid "Modern"
+msgstr ""
+
+#: inc/customizer.php:154
+msgid "Default Settings"
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Default section provided by wordpress customizer"
+msgstr ""
+
+#: inc/customizer.php:162
+#: build/dashboard.js:6411
+#: src/pages/Home/index.jsx:71
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Load Google Fonts Locally"
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "Preload Local Fonts"
+msgstr ""
+
+#: inc/customizer.php:214
+#: inc/customizer.php:220
+msgid "Flush Local Fonts Cache"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Click the button to reset the local fonts cache."
+msgstr ""
+
+#: inc/customizer.php:242
+#: inc/customizer.php:294
+#: inc/customizer.php:368
+#: inc/customizer.php:433
+#: inc/customizer.php:525
+#: inc/customizer.php:1519
+#: inc/customizer.php:1573
+#: inc/customizer.php:1625
+#: inc/customizer.php:1679
+#: inc/customizer.php:1791
+#: inc/customizer.php:1976
+msgid "%1$sThis feature is available in Pro version.%2$s %3$sUpgrade to Pro%4$s "
+msgstr ""
+
+#: inc/customizer.php:329
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:347
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer.php:403
+#: build/dashboard.js:6371
+#: src/pages/Home/index.jsx:26
+msgid "Home Page Settings"
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "Customize Home Page Settings"
+msgstr ""
+
+#: inc/customizer.php:412
+msgid "Home Page Drag and Drop"
+msgstr ""
+
+#: inc/customizer.php:464
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer.php:482
+msgid "Enable Banner Section"
+msgstr ""
+
+#: inc/customizer.php:483
+msgid "Check to enable banner on the front page. The featured image and content of Static Front Page will be displayed in the banner section. To add or edit the content of Static Front Page, go to Dashboard >> Pages > All Pages  and edit the page with Front Page template."
+msgstr ""
+
+#: inc/customizer.php:502
+#: inc/customizer.php:1768
+msgid "Contact Form"
+msgstr ""
+
+#: inc/customizer.php:504
+#: inc/customizer.php:1770
+msgid "Enter the Contact Form Shortcode. Ex. [contact-form-7 id=\"186\" title=\"Google contact\"]"
+msgstr ""
+
+#: inc/customizer.php:560
+msgid "About Section"
+msgstr ""
+
+#: inc/customizer.php:578
+msgid "Enable About Section"
+msgstr ""
+
+#: inc/customizer.php:596
+#: inc/customizer.php:704
+#: inc/customizer.php:805
+#: inc/customizer.php:968
+#: inc/customizer.php:1410
+#: inc/customizer.php:1746
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer.php:597
+#: inc/customizer.php:598
+#: inc/customizer.php:705
+#: inc/customizer.php:806
+#: inc/customizer.php:969
+#: inc/customizer.php:1411
+#: inc/customizer.php:1747
+msgid "Title and description of selected page will display as section title and description."
+msgstr ""
+
+#: inc/customizer.php:618
+#: inc/customizer.php:825
+#: inc/customizer.php:988
+#: inc/customizer.php:1430
+msgid "Select Post/Page One"
+msgstr ""
+
+#: inc/customizer.php:637
+#: inc/customizer.php:844
+#: inc/customizer.php:1007
+#: inc/customizer.php:1449
+msgid "Select Post/Page Two"
+msgstr ""
+
+#: inc/customizer.php:656
+#: inc/customizer.php:863
+#: inc/customizer.php:1026
+#: inc/customizer.php:1468
+msgid "Select Post/Page Three"
+msgstr ""
+
+#: inc/customizer.php:667
+msgid "Promotional Block Section"
+msgstr ""
+
+#: inc/customizer.php:685
+msgid "Enable Promotional Block Section"
+msgstr ""
+
+#: inc/customizer.php:724
+msgid "CTA Button Label"
+msgstr ""
+
+#: inc/customizer.php:742
+msgid "CTA Button Link"
+msgstr ""
+
+#: inc/customizer.php:759
+msgid "Open Link in New Tab"
+msgstr ""
+
+#: inc/customizer.php:769
+msgid "Portfolio Section"
+msgstr ""
+
+#: inc/customizer.php:787
+msgid "Enable Portfolio Section"
+msgstr ""
+
+#: inc/customizer.php:882
+#: inc/customizer.php:1045
+#: inc/customizer.php:1487
+msgid "Select Post/Page Four"
+msgstr ""
+
+#: inc/customizer.php:901
+#: inc/customizer.php:1064
+msgid "Select Post/Page Five"
+msgstr ""
+
+#: inc/customizer.php:920
+#: inc/customizer.php:1083
+msgid "Select Post/Page Six"
+msgstr ""
+
+#: inc/customizer.php:931
+msgid "Services Section"
+msgstr ""
+
+#: inc/customizer.php:949
+msgid "Enable Services Section"
+msgstr ""
+
+#: inc/customizer.php:1102
+msgid "Select Post/Page Seven"
+msgstr ""
+
+#: inc/customizer.php:1121
+msgid "Select Post/Page Eight"
+msgstr ""
+
+#: inc/customizer.php:1133
+msgid "Clients Section"
+msgstr ""
+
+#: inc/customizer.php:1151
+msgid "Enable Clients Section"
+msgstr ""
+
+#: inc/customizer.php:1169
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:1189
+msgid "Upload a logo (One)"
+msgstr ""
+
+#: inc/customizer.php:1208
+msgid "Logo Url (One)"
+msgstr ""
+
+#: inc/customizer.php:1228
+msgid "Upload a logo (Two)"
+msgstr ""
+
+#: inc/customizer.php:1247
+msgid "Logo Url (Two)"
+msgstr ""
+
+#: inc/customizer.php:1267
+msgid "Upload a logo (Three)"
+msgstr ""
+
+#: inc/customizer.php:1286
+msgid "Logo Url (Three)"
+msgstr ""
+
+#: inc/customizer.php:1306
+msgid "Upload a logo (Four)"
+msgstr ""
+
+#: inc/customizer.php:1325
+msgid "Logo Url (Four)"
+msgstr ""
+
+#: inc/customizer.php:1345
+msgid "Upload a logo (Five)"
+msgstr ""
+
+#: inc/customizer.php:1364
+msgid "Logo Url (Five)"
+msgstr ""
+
+#: inc/customizer.php:1374
+msgid "Testimonials Section"
+msgstr ""
+
+#: inc/customizer.php:1392
+msgid "Enable Testimonials Section"
+msgstr ""
+
+#: inc/customizer.php:1498
+msgid "Pricing Section"
+msgstr ""
+
+#: inc/customizer.php:1552
+msgid "Teaam Section"
+msgstr ""
+
+#: inc/customizer.php:1604
+msgid "Counters Section"
+msgstr ""
+
+#: inc/customizer.php:1658
+msgid "One Page Menu Section"
+msgstr ""
+
+#: inc/customizer.php:1710
+msgid "Contact Form Section"
+msgstr ""
+
+#: inc/customizer.php:1728
+msgid "Enable Contact Form Section"
+msgstr ""
+
+#: inc/customizer.php:1822
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/customizer.php:1841
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:1859
+msgid "Show current"
+msgstr ""
+
+#: inc/customizer.php:1869
+#: inc/extras.php:294
+#: build/dashboard.js:6824
+#: src/pages/index.js:16
+msgid "Home"
+msgstr ""
+
+#: inc/customizer.php:1877
+msgid "Breadcrumb Home Text"
+msgstr ""
+
+#: inc/customizer.php:1887
+#: inc/extras.php:293
+msgid ">"
+msgstr ""
+
+#: inc/customizer.php:1895
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/customizer.php:1907
+msgid "Exclude Category Settings"
+msgstr ""
+
+#: inc/customizer.php:1927
+msgid "Exclude Categories"
+msgstr ""
+
+#: inc/customizer.php:1928
+msgid "Check multiple categories to exclude from blog and archive page."
+msgstr ""
+
+#: inc/customizer.php:1938
+#: build/dashboard.js:6385
+#: src/pages/Home/index.jsx:38
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:1955
+msgid "Copyright Info"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:107
+msgid "Sorry, you are not allowed to do that."
+msgstr ""
+
+#: inc/demo-content.php:13
+msgid "Demo Content Import"
+msgstr ""
+
+#: inc/demo-content.php:24
+msgid "Construction Landing Page comes with demo content import feature. You can import the demo content with just one click. For step-by-step video tutorial, %1$sClick here%2$s"
+msgstr ""
+
+#: inc/demo-content.php:40
+msgid "Plugin required"
+msgstr ""
+
+#: inc/demo-content.php:40
+#: inc/tgmpa/recommended-plugins.php:58
+#: build/dashboard.js:6646
+#: src/pages/UsefulPlugins/index.jsx:12
+msgid "Rara One Click Demo Import"
+msgstr ""
+
+#: inc/demo-content.php:43
+msgid "Download Demo Content Zip File"
+msgstr ""
+
+#: inc/demo-content.php:43
+#: inc/info.php:43
+#: inc/info.php:44
+#: inc/info.php:45
+#: inc/info.php:46
+msgid "here"
+msgstr ""
+
+#: inc/extras.php:53
+msgid "Mobile"
+msgstr ""
+
+#: inc/extras.php:243
+msgid "Search Results for: \"%s\""
+msgstr ""
+
+#: inc/extras.php:266
+msgid "404 - Page not found"
+msgstr ""
+
+#: inc/extras.php:342
+#: inc/extras.php:344
+#: inc/extras.php:350
+#: inc/extras.php:355
+#: inc/template-tags.php:139
+msgid "Y"
+msgstr ""
+
+#: inc/extras.php:344
+msgid "m"
+msgstr ""
+
+#: inc/extras.php:344
+#: inc/extras.php:352
+msgid "F"
+msgstr ""
+
+#: inc/extras.php:346
+msgid "d"
+msgstr ""
+
+#: inc/extras.php:455
+msgid "Search Results for \""
+msgstr ""
+
+#: inc/extras.php:455
+msgid "\""
+msgstr ""
+
+#: inc/extras.php:499
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:516
+msgid "404 Error - Page not Found"
+msgstr ""
+
+#: inc/extras.php:518
+msgid " (Page"
+msgstr ""
+
+#: inc/extras.php:518
+msgid ")"
+msgstr ""
+
+#: inc/extras.php:548
+msgid "About Author"
+msgstr ""
+
+#: inc/extras.php:575
+msgid "Name*"
+msgstr ""
+
+#: inc/extras.php:575
+#: inc/extras.php:579
+msgid "Name"
+msgstr ""
+
+#: inc/extras.php:576
+msgid "Email*"
+msgstr ""
+
+#: inc/extras.php:576
+#: inc/extras.php:581
+msgid "Email"
+msgstr ""
+
+#: inc/extras.php:583
+msgid "Website"
+msgstr ""
+
+#: inc/extras.php:596
+msgid "Comment"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by PT Sans, translate this to 'off'. Do not translate into your own language.
+#: inc/extras.php:846
+msgctxt "PT Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/extras.php:847
+msgctxt "Big Shoulders Display: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/extras.php:848
+msgctxt "Outfit: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/info.php:13
+#: inc/info.php:43
+msgid "Video Tutorial"
+msgstr ""
+
+#: inc/info.php:31
+msgid "Check out step-by-step video tutorial to create your website like the demo of Construction Landing Page WordPress theme."
+msgstr ""
+
+#: inc/info.php:44
+msgid "Theme Demo"
+msgstr ""
+
+#: inc/info.php:45
+msgid "Support Ticket"
+msgstr ""
+
+#: inc/info.php:46
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/info.php:164
+msgid "Pro Available"
+msgstr ""
+
+#: inc/info.php:166
+msgid "VIEW PRO THEME"
+msgstr ""
+
+#: inc/metabox.php:12
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox.php:23
+msgid "Right sidebar (default)"
+msgstr ""
+
+#: inc/metabox.php:29
+msgid "No sidebar"
+msgstr ""
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgctxt "post author"
+msgid "Posted by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:36
+#: inc/template-tags.php:42
+msgid ", "
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:53
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:69
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:139
+msgid "&copy; Copyright "
+msgstr ""
+
+#: inc/template-tags.php:145
+msgid "Construction Landing Page | Developed By "
+msgstr ""
+
+#: inc/template-tags.php:147
+msgid "Rara Themes"
+msgstr ""
+
+#: inc/template-tags.php:149
+msgid "Powered by "
+msgstr ""
+
+#: inc/template-tags.php:150
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/template-tags.php:150
+msgid "WordPress"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:343
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:378
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:400
+#: inc/tgmpa/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:401
+#: inc/tgmpa/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:405
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:409
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:735
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1243
+#: inc/tgmpa/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2867
+#: build/dashboard.js:6772
+#: src/pages/UsefulPlugins/index.jsx:146
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2876
+#: build/dashboard.js:6778
+#: src/pages/UsefulPlugins/index.jsx:156
+msgid "Activate"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3664
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3672
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:53
+#: build/dashboard.js:6642
+#: src/pages/UsefulPlugins/index.jsx:7
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/widget-featured-post.php:25
+msgid "RARA: Featured Post"
+msgstr ""
+
+#: inc/widget-featured-post.php:26
+msgid "A Featured Post Widget"
+msgstr ""
+
+#: inc/widget-featured-post.php:40
+#: inc/widget-featured-post.php:97
+#: inc/widget-featured-post.php:139
+msgid "Read More"
+msgstr ""
+
+#: inc/widget-featured-post.php:85
+msgid "--choose--"
+msgstr ""
+
+#: inc/widget-featured-post.php:103
+msgid "Posts"
+msgstr ""
+
+#: inc/widget-featured-post.php:113
+msgid "Read More Text"
+msgstr ""
+
+#: inc/widget-featured-post.php:119
+#: inc/widget-popular-post.php:125
+#: inc/widget-recent-post.php:143
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: inc/widget-popular-post.php:24
+msgid "RARA: Popular Post"
+msgstr ""
+
+#: inc/widget-popular-post.php:25
+msgid "A Popular Post Widget"
+msgstr ""
+
+#: inc/widget-popular-post.php:114
+#: inc/widget-recent-post.php:128
+#: inc/widget-social-links.php:106
+msgid "Title"
+msgstr ""
+
+#: inc/widget-popular-post.php:119
+#: inc/widget-recent-post.php:134
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widget-popular-post.php:130
+#: inc/widget-recent-post.php:150
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/widget-recent-post.php:29
+msgid "RARA: Recent Post"
+msgstr ""
+
+#: inc/widget-recent-post.php:31
+msgid "A Recent Post Widget"
+msgstr ""
+
+#: inc/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr ""
+
+#: inc/widget-social-links.php:26
+msgid "A Social Links Widget"
+msgstr ""
+
+#: inc/widget-social-links.php:58
+#: inc/widget-social-links.php:111
+msgid "Facebook"
+msgstr ""
+
+#: inc/widget-social-links.php:60
+#: inc/widget-social-links.php:116
+msgid "Twitter"
+msgstr ""
+
+#: inc/widget-social-links.php:62
+#: inc/widget-social-links.php:121
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widget-social-links.php:64
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widget-social-links.php:66
+#: inc/widget-social-links.php:131
+msgid "Google Plus"
+msgstr ""
+
+#: inc/widget-social-links.php:68
+#: inc/widget-social-links.php:136
+msgid "Instagram"
+msgstr ""
+
+#: inc/widget-social-links.php:70
+#: inc/widget-social-links.php:141
+msgid "YouTube"
+msgstr ""
+
+#: inc/widget-social-links.php:72
+#: inc/widget-social-links.php:146
+msgid "OK"
+msgstr ""
+
+#: inc/widget-social-links.php:74
+#: inc/widget-social-links.php:151
+msgid "VK"
+msgstr ""
+
+#: inc/widget-social-links.php:76
+#: inc/widget-social-links.php:156
+msgid "Xing"
+msgstr ""
+
+#: inc/widget-social-links.php:126
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/woocommerce-functions.php:45
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce-functions.php:47
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr ""
+
+#: search.php:15
+msgid "If you didn&rsquo;t find what you were looking for, try a new search!"
+msgstr ""
+
+#: sections/portfolio.php:51
+msgid "View Detail"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:28
+#: template-parts/content-single.php:43
+#: template-parts/content.php:53
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:38
+#: template-parts/content.php:47
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content.php:61
+msgid "Continue Reading"
+msgstr ""
+
+#: build/dashboard.js:5912
+#: src/components/TabHeader/index.jsx:7
+msgid "View Website"
+msgstr ""
+
+#: build/dashboard.js:5916
+#: src/components/TabHeader/index.jsx:12
+msgid "View Tutorials "
+msgstr ""
+
+#: build/dashboard.js:5920
+#: src/components/TabHeader/index.jsx:17
+msgid "Contact Support"
+msgstr ""
+
+#: build/dashboard.js:5924
+#: src/components/TabHeader/index.jsx:22
+msgid "Docs"
+msgstr ""
+
+#: build/dashboard.js:5988
+#: build/dashboard.js:6007
+#: src/components/Tab/index.jsx:13
+#: src/components/Tab/index.jsx:28
+msgid "Logo"
+msgstr ""
+
+#: build/dashboard.js:5989
+#: src/components/Tab/index.jsx:14
+msgid " Consrtuction Landing Page Pro"
+msgstr ""
+
+#: build/dashboard.js:5993
+#: src/components/Tab/index.jsx:16
+msgid "Get Pro"
+msgstr ""
+
+#: build/dashboard.js:6199
+#: src/pages/FAQ/index.jsx:8
+msgid "What is the difference between Free and Pro?"
+msgstr ""
+
+#: build/dashboard.js:6200
+#: src/pages/FAQ/index.jsx:12
+msgid "Overall, you will have more control over the customization and editing of your website with the Pro version."
+msgstr ""
+
+#: build/dashboard.js:6202
+#: src/pages/FAQ/index.jsx:17
+msgid "What are the perks of upgrading to the Premium version?"
+msgstr ""
+
+#: build/dashboard.js:6203
+#: src/pages/FAQ/index.jsx:18
+msgid "Along with the additional features and regular updates, you get dedicated and quick support with the premium theme. If you run into any issue while creating a website with the premium theme, you will get a quicker response compared to the free support."
+msgstr ""
+
+#: build/dashboard.js:6205
+#: src/pages/FAQ/index.jsx:21
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr ""
+
+#: build/dashboard.js:6206
+#: src/pages/FAQ/index.jsx:24
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr ""
+
+#: build/dashboard.js:6206
+#: src/pages/FAQ/index.jsx:25
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr ""
+
+#: build/dashboard.js:6206
+#: src/pages/FAQ/index.jsx:26
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr ""
+
+#: build/dashboard.js:6208
+#: src/pages/FAQ/index.jsx:31
+msgid "How do I change the copyright text?"
+msgstr ""
+
+#: build/dashboard.js:6211
+#: src/pages/FAQ/index.jsx:33
+msgid "You can change the copyright text going to %1$s Appearance > Customize > Footer Settings. %2$s However, if you want to hide the author credit text, please %3$s."
+msgstr ""
+
+#: build/dashboard.js:6215
+#: src/pages/FAQ/index.jsx:37
+msgid "Why is my theme not working well?"
+msgstr ""
+
+#: build/dashboard.js:6216
+#: src/pages/FAQ/index.jsx:40
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr ""
+
+#: build/dashboard.js:6218
+#: src/pages/FAQ/index.jsx:41
+msgid "To solve the issue, deactivate all the plugins first, except the ones recommended by the theme. Then, hard reload your website using %1$s \"Ctrl+Shift+R\" %2$s on Windows and %1$s \"Cmd+Shift+R\" %2$s on Mac. If the issues are fixed, start activating the plugins one by one, and reload and check your site each time. This will help you find out the plugin that is causing the problem."
+msgstr ""
+
+#: build/dashboard.js:6222
+#: src/pages/FAQ/index.jsx:42
+msgid "If this didn't help, please contact us via our %s."
+msgstr ""
+
+#: build/dashboard.js:6226
+#: src/pages/FAQ/index.jsx:47
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr ""
+
+#: build/dashboard.js:6227
+#: src/pages/FAQ/index.jsx:50
+msgid "Please ensure that you have updated to the latest version of the theme before you submit a support ticket for any issue. We might have already fixed the bug in the previous theme update."
+msgstr ""
+
+#: build/dashboard.js:6227
+#: src/pages/FAQ/index.jsx:51
+msgid "Also, when you submit the support ticket, please try to provide maximum details so that we can look into your issue in detail and solve it in minimum time. We recommend you to send us a screenshot(s) with issues explained and your website's address (URL). You can contact us "
+msgstr ""
+
+#: build/dashboard.js:6230
+#: src/pages/FAQ/index.jsx:51
+msgid "here."
+msgstr ""
+
+#: build/dashboard.js:6317
+#: src/pages/FreePro/index.jsx:35
+msgid "Free vs Pro image"
+msgstr ""
+
+#: build/dashboard.js:6350
+#: src/pages/Home/index.jsx:8
+msgid "Site Identity"
+msgstr ""
+
+#: build/dashboard.js:6351
+#: build/dashboard.js:6358
+#: build/dashboard.js:6365
+#: build/dashboard.js:6372
+#: build/dashboard.js:6379
+#: build/dashboard.js:6386
+#: src/pages/Home/index.jsx:9
+#: src/pages/Home/index.jsx:15
+#: src/pages/Home/index.jsx:21
+#: src/pages/Home/index.jsx:27
+#: src/pages/Home/index.jsx:33
+#: src/pages/Home/index.jsx:39
+msgid "Customize"
+msgstr ""
+
+#: build/dashboard.js:6357
+#: src/pages/Home/index.jsx:14
+msgid "Color Settings"
+msgstr ""
+
+#: build/dashboard.js:6390
+#: src/pages/Home/index.jsx:46
+msgid "Header Layouts"
+msgstr ""
+
+#: build/dashboard.js:6391
+#: src/pages/Home/index.jsx:47
+msgid "Choose from different unique header layouts."
+msgstr ""
+
+#: build/dashboard.js:6392
+#: build/dashboard.js:6397
+#: build/dashboard.js:6407
+#: build/dashboard.js:6412
+#: build/dashboard.js:6417
+#: src/pages/Home/index.jsx:48
+#: src/pages/Home/index.jsx:54
+#: src/pages/Home/index.jsx:66
+#: src/pages/Home/index.jsx:72
+#: src/pages/Home/index.jsx:78
+msgid "Learn More"
+msgstr ""
+
+#: build/dashboard.js:6395
+#: src/pages/Home/index.jsx:52
+msgid "Advanced Home Page Settings"
+msgstr ""
+
+#: build/dashboard.js:6396
+#: src/pages/Home/index.jsx:53
+msgid "Customize your home page with unique sections."
+msgstr ""
+
+#: build/dashboard.js:6400
+#: src/pages/Home/index.jsx:58
+msgid "Multiple Sidebar"
+msgstr ""
+
+#: build/dashboard.js:6401
+#: src/pages/Home/index.jsx:59
+msgid "Set different sidebars for posts and pages."
+msgstr ""
+
+#: build/dashboard.js:6405
+#: src/pages/Home/index.jsx:64
+msgid "Boost your website performance with ease."
+msgstr ""
+
+#: build/dashboard.js:6406
+#: src/pages/Home/index.jsx:65
+msgid "Performance Settings"
+msgstr ""
+
+#: build/dashboard.js:6410
+#: src/pages/Home/index.jsx:70
+msgid "Choose typography for different heading tags."
+msgstr ""
+
+#: build/dashboard.js:6415
+#: src/pages/Home/index.jsx:76
+msgid "Import the demo content to kickstart your site."
+msgstr ""
+
+#: build/dashboard.js:6416
+#: src/pages/Home/index.jsx:77
+msgid "One Click Demo Import"
+msgstr ""
+
+#: build/dashboard.js:6451
+#: src/pages/Home/index.jsx:113
+msgid "Quick Customizer Settings"
+msgstr ""
+
+#: build/dashboard.js:6452
+#: build/dashboard.js:6461
+#: src/pages/Home/index.jsx:114
+#: src/pages/Home/index.jsx:125
+msgid "Go To Customizer"
+msgstr ""
+
+#: build/dashboard.js:6460
+#: src/pages/Home/index.jsx:124
+msgid "More features with Pro version"
+msgstr ""
+
+#: build/dashboard.js:6474
+#: src/pages/Home/index.jsx:135
+msgid "Learn more about the Pro version"
+msgstr ""
+
+#: build/dashboard.js:6505
+#: src/pages/Offers/index.jsx:10
+msgid "Theme Club"
+msgstr ""
+
+#: build/dashboard.js:6510
+#: src/pages/Offers/index.jsx:18
+msgid "Theme Installation & Setup"
+msgstr ""
+
+#: build/dashboard.js:6514
+#: src/pages/Offers/index.jsx:23
+msgid "GDPR Compliance"
+msgstr ""
+
+#: build/dashboard.js:6518
+#: src/pages/Offers/index.jsx:28
+msgid "Must Have SEO Setup"
+msgstr ""
+
+#: build/dashboard.js:6522
+#: src/pages/Offers/index.jsx:33
+msgid "Must Have Plugins Setup"
+msgstr ""
+
+#: build/dashboard.js:6526
+#: src/pages/Offers/index.jsx:38
+msgid "VIP Support"
+msgstr ""
+
+#: build/dashboard.js:6578
+#: src/pages/StarterSites/index.jsx:8
+msgid "Construction Landing Page Pro"
+msgstr ""
+
+#: build/dashboard.js:6582
+#: src/pages/StarterSites/index.jsx:13
+msgid "Construction Landing Page Pro Modern"
+msgstr ""
+
+#: build/dashboard.js:6586
+#: src/pages/StarterSites/index.jsx:18
+msgid "Construction Company"
+msgstr ""
+
+#: build/dashboard.js:6590
+#: src/pages/StarterSites/index.jsx:23
+msgid "Epic Construction"
+msgstr ""
+
+#: build/dashboard.js:6594
+#: src/pages/StarterSites/index.jsx:28
+msgid "Construction Agency"
+msgstr ""
+
+#: build/dashboard.js:6598
+#: src/pages/StarterSites/index.jsx:33
+msgid "Construction Builders"
+msgstr ""
+
+#: build/dashboard.js:6602
+#: src/pages/StarterSites/index.jsx:38
+msgid "Apex Constructors"
+msgstr ""
+
+#: build/dashboard.js:6606
+#: src/pages/StarterSites/index.jsx:43
+msgid "Timberline"
+msgstr ""
+
+#: build/dashboard.js:6643
+#: src/pages/UsefulPlugins/index.jsx:8
+msgid "Just another contact form plugin. Simple but flexible."
+msgstr ""
+
+#: build/dashboard.js:6647
+#: src/pages/UsefulPlugins/index.jsx:13
+msgid "Make your website look like the live demo of the theme with a click!"
+msgstr ""
+
+#: build/dashboard.js:6775
+#: src/pages/UsefulPlugins/index.jsx:151
+msgid "Installing..."
+msgstr ""
+
+#: build/dashboard.js:6781
+#: src/pages/UsefulPlugins/index.jsx:161
+msgid "Activating..."
+msgstr ""
+
+#: build/dashboard.js:6784
+#: src/pages/UsefulPlugins/index.jsx:166
+msgid "Activated"
+msgstr ""
+
+#: build/dashboard.js:6830
+#: src/pages/index.js:21
+msgid "Starter Sites"
+msgstr ""
+
+#: build/dashboard.js:6836
+#: src/pages/index.js:26
+msgid "Free vs Pro"
+msgstr ""
+
+#: build/dashboard.js:6842
+#: src/pages/index.js:31
+msgid "Offers"
+msgstr ""
+
+#: build/dashboard.js:6848
+#: src/pages/index.js:36
+msgid "FAQs"
+msgstr ""
+
+#: build/dashboard.js:6854
+#: src/pages/index.js:41
+msgid "Useful Plugins"
+msgstr ""
