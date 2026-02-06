@@ -252,7 +252,7 @@ function construction_landing_page_customizer_scripts() {
 	$construction_landing_page_array = array(
     	'ajax_url'   => admin_url( 'admin-ajax.php' ),
     	'flushit'    => __( 'Successfully Flushed!','construction-landing-page' ),
-    	'nonce'      => wp_create_nonce('construction_landing_page_flush_fonts_nonce')
+    	'nonce'      => wp_create_nonce('ajax-nonce')
 	);
 	wp_localize_script( 'construction-landing-page-customizer-js', 'construction_landing_page_cdata', $construction_landing_page_array );
 }
