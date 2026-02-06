@@ -17,22 +17,33 @@ function construction_landing_page_add_sidebar_layout_box(){
 ); // $priority    
 }
 
-$construction_landing_page_sidebar_layout = array(         
-    'right-sidebar' => array(
-        'value' => 'right-sidebar',
-        'label' => __( 'Right sidebar (default)', 'construction-landing-page' ),
-        'thumbnail' => get_template_directory_uri() . '/images/right-sidebar.png'
-    ),
+/**
+ * Get sidebar layout data
+ *
+ * @since 1.0.0
+ */
+if( ! function_exists( 'construction_landing_page_get_sidebar_layout_data' ) ){
+    function construction_landing_page_get_sidebar_layout_data(){
+        return array(
+            'right-sidebar' => array(
+                'value' => 'right-sidebar',
+                'label' => __( 'Right sidebar (default)', 'construction-landing-page' ),
+                'thumbnail' => get_template_directory_uri() . '/images/right-sidebar.png'
+            ),
 
-    'no-sidebar' => array(
-        'value'     => 'no-sidebar',
-        'label'     => __( 'No sidebar', 'construction-landing-page' ),
-        'thumbnail' => get_template_directory_uri() . '/images/no-sidebar.png'
-    )   
-);
+            'no-sidebar' => array(
+                'value'     => 'no-sidebar',
+                'label'     => __( 'No sidebar', 'construction-landing-page' ),
+                'thumbnail' => get_template_directory_uri() . '/images/no-sidebar.png'
+            )   
+        );
+    }
+}
+
 
 function construction_landing_page_sidebar_layout_callback(){
-    global $post , $construction_landing_page_sidebar_layout;
+    global $post;
+    $construction_landing_page_sidebar_layout = construction_landing_page_get_sidebar_layout_data();
     wp_nonce_field( basename( __FILE__ ), 'construction_landing_page_sidebar_layout_nonce' ); 
 ?>
 
@@ -66,7 +77,8 @@ function construction_landing_page_sidebar_layout_callback(){
 */
 function construction_landing_page_save_sidebar_layout( $post_id ) { 
 
-    global $construction_landing_page_sidebar_layout;
+    $construction_landing_page_sidebar_layout = construction_landing_page_get_sidebar_layout_data();
+
 
     // Verify the nonce before proceeding.
     if ( !isset( $_POST[ 'construction_landing_page_sidebar_layout_nonce' ] ) || !wp_verify_nonce( $_POST[ 'construction_landing_page_sidebar_layout_nonce' ], basename( __FILE__ ) ) )

@@ -3,8 +3,8 @@
 Contributors: raratheme
 Requires at least: 6.2
 Requires PHP: 7.3
-Tested up to: 6.6
-Stable tag: 1.4.0
+Tested up to: 6.9
+Stable tag: 1.4.1
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Tags: two-columns, one-column, right-sidebar, custom-menu, custom-logo, featured-images, sticky-post, threaded-comments, translation-ready, custom-background, full-width-template, theme-options, portfolio, post-formats, blog, e-commerce
@@ -129,6 +129,9 @@ Some codes are taken from Twenty Twenty theme - https://wordpress.org/themes/twe
    GNU General Public License for more details.
 
 == Change Log ==
+
+    1.4.1 - January 20, 2025
+    * Fix: Translation loading early issue has been fixed.
 
     1.4.0 - August 08, 2024
     * Update: New dashboard has been implemented for better user experience.
